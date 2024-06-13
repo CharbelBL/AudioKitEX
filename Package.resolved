@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "AudioKit",
-        "repositoryURL": "https://github.com/AudioKit/AudioKit",
+        "repositoryURL": "https://github.com/CharbelBL/AudioKit",
         "state": {
-          "branch": "v6",
-          "revision": "a86183ede4f143f56d46e31f49822da8fae2d80b",
+          "branch": "visionOS",
+          "revision": "f2fafe9df43d19fc74972465d60ecbea91a121a1",
           "version": null
         }
       },
